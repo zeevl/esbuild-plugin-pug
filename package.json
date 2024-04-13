@@ -9,6 +9,14 @@
   "dependencies": {
     "pug": "^3.0.2"
   },
-  "files": ["src"],
-  "keywords": ["esbuild", "jade", "pug", "esbuild-plugin"]
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "esbuild",
+    "jade",
+    "pug",
+    "esbuild-plugin"
+  ],
+  "packageManager": "yarn@4.1.1"
 }
